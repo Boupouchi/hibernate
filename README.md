@@ -10,6 +10,7 @@ The class diagram serves as a blueprint for the application's structure, depicti
 ## Screenshots
 
 ![Screenshot from 2023-10-17 07-39-19](https://github.com/Boupouchi/hibernate/assets/81436882/196af96d-36f9-4051-8df5-451bf49d14a6)
+
 ![Screenshot from 2023-10-17 07-40-32](https://github.com/Boupouchi/hibernate/assets/81436882/b2368c93-442f-4c8f-bb15-7701ccaaea1e)
 ![Screenshot from 2023-10-17 07-43-01](https://github.com/Boupouchi/hibernate/assets/81436882/cdcbfbab-4a75-4558-b072-215b4f65d1fa)
 ![Screenshot from 2023-10-17 07-43-35](https://github.com/Boupouchi/hibernate/assets/81436882/3f91dea3-3058-4c3d-a7b3-1deb106b4f2d)
