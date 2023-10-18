@@ -5,7 +5,6 @@ The project aims to create an application dedicated to efficiently managing the 
 
 The class diagram serves as a blueprint for the application's structure, depicting the various classes, their attributes, and the relationships between them. It outlines how the different components of the application, like citizens, events, and administrative functions, are interconnected.
 
-![Screenshot from 2023-10-17 07-41-30](https://github.com/Boupouchi/hibernate/assets/81436882/49aec50c-9105-43e4-89d5-4aaf52bffaed)
 
 ## Screenshots
 
